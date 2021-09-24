@@ -29,7 +29,7 @@
 
 
 {
- classpath 'com.google.dagger:hilt-android-gradle-plugin:2.38.1'l̥
+ classpath 'com.google.dagger:hilt-android-gradle-plugin:2.38.1'
  
  id("dagger.hilt.android.plugin")
 
